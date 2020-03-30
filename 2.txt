@@ -4,7 +4,15 @@ sdfasdfasd
 jflajskfejjkjfdlkjaklsdfjlefase
 enamijlkdjfklaskd  
 
+<<<<<<< HEAD
 hello world
 
 master修改2
 
+=======
+
+
+master修改2
+
+dev修改2
+>>>>>>> dev
